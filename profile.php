@@ -170,7 +170,7 @@
   <div class="container" >
     <div class="row">
       <div class="col-md-12" >
-        <p class="text-muted" style="text-align : center" id="footer"><b>All Copyrights Resereved.&copy;<br>Creatoers : Amjad Nassar, Aiman Younis <br> ID: 307945402, 204317770</b></p>
+        <p class="text-muted" style="text-align : center" id="footer"><b>All Copyrights Resereved.&copy;<br>Creatoers : Amjad Nassar, Aiman Younis</b></p>
     </div>
   </div>
 </div>
